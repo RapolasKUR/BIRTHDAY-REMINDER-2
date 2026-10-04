@@ -94,9 +94,9 @@ class User:
         }
 
 
-class Notifier(ABC):
+class Notifier(ABC): #paveldejimas notifier tevine klase o consolenotifier ir friendly notifier yra vaikines klases
     @abstractmethod
-    def send_message(self, message):
+    def send_message(self, message): #polimorfizmas tas pats metodas gali veikti skirtingai skirtingose klasese       
         pass
 
 

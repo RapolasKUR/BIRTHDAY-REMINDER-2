@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "username": "RAPOLAS",
+        "birthdays": [
+            {
+                "person_name": "VLADISLAV",
+                "birth_date": "2006-04-27"
+            },
+            {
+                "person_name": "JOKUBAS",
+                "birth_date": "2008-08-06"
+            },
+            {
+                "person_name": "UGNE",
+                "birth_date": "2006-05-05"
+            }
+        ]
+    },
+    {
+        "username": "MARIUS",
+        "birthdays": [
+            {
+                "person_name": "Lukas",
+                "birth_date": "2006-05-13"
+            }
+        ]
+    }
+]

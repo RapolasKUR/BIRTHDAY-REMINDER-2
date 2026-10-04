@@ -4,7 +4,7 @@ from pathlib import Path
 from models import Birthday, User
 
 
-class BirthdayReminderSystem:
+class BirthdayReminderSystem: #singelton pattern
     """Central service that manages users, birthdays and persistence."""
 
     def __init__(self, notifier, file_name=None):
